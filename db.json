@@ -1,1649 +1,1647 @@
 {
-    "products": {
-        "mobile": {
-            "name": "Mobile",
-            "subcategories": {
-                "phones": {
-                    "name": "Phones",
-                    "subcategories": {
-                        "xiaomi": {
-                            "name": "Xiaomi",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Mix Flip",
-                                    "image": "phone-1.png",
-                                    "price": "$999",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi 15 Ultra",
-                                    "image": "phone-2.png",
-                                    "price": "$1299",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi 15",
-                                    "image": "phone-3.png",
-                                    "price": "$899"
-                                },
-                                {
-                                    "name": "Xiaomi 14T Pro",
-                                    "image": "phone-4.png",
-                                    "price": "$799"
-                                },
-                                {
-                                    "name": "Xiaomi 14 Ultra",
-                                    "image": "phone-5.png",
-                                    "price": "$1199"
-                                }
-                            ]
-                        },
-                        "redmi": {
-                            "name": "Redmi",
-                            "products": [
-                                {
-                                    "name": "Redmi Note 14 Pro+ 5G",
-                                    "image": "phone-6.png",
-                                    "price": "$399",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Redmi Note 14 5G",
-                                    "image": "phone-7.png",
-                                    "price": "$299"
-                                },
-                                {
-                                    "name": "Redmi Note 13",
-                                    "image": "phone-8.png",
-                                    "price": "$249"
-                                },
-                                {
-                                    "name": "Redmi 14C",
-                                    "image": "phone-9.png",
-                                    "price": "$199"
-                                },
-                                {
-                                    "name": "Redmi A3x",
-                                    "image": "phone-10.png",
-                                    "price": "$129"
-                                }
-                            ]
-                        },
-                        "poco": {
-                            "name": "POCO",
-                            "subcategories": {
-                                "f_series": {
-                                    "name": "F Series",
-                                    "products": [
-                                        {
-                                            "name": "POCO F7",
-                                            "image": "phone-11.png",
-                                            "price": "$599",
-                                            "featured": true
-                                        },
-                                        {
-                                            "name": "POCO F7 Ultra",
-                                            "image": "phone-12.png",
-                                            "price": "$699"
-                                        },
-                                        {
-                                            "name": "POCO F7 Pro",
-                                            "image": "phone-13.png",
-                                            "price": "$649"
-                                        },
-                                        {
-                                            "name": "POCO F6",
-                                            "image": "phone-14.png",
-                                            "price": "$549"
-                                        },
-                                        {
-                                            "name": "POCO F6 Pro",
-                                            "image": "phone-15.png",
-                                            "price": "$599"
-                                        }
-                                    ]
-                                },
-                                "x_series": {
-                                    "name": "X Series",
-                                    "products": [
-                                        {
-                                            "name": "POCO X7 Pro",
-                                            "image": "phone-16.png",
-                                            "price": "$399"
-                                        },
-                                        {
-                                            "name": "POCO X7",
-                                            "image": "phone-17.png",
-                                            "price": "$349"
-                                        },
-                                        {
-                                            "name": "POCO X6 Pro",
-                                            "image": "phone-18.png",
-                                            "price": "$329"
-                                        },
-                                        {
-                                            "name": "POCO X6",
-                                            "image": "phone-19.png",
-                                            "price": "$299"
-                                        },
-                                        {
-                                            "name": "POCO X5 Pro 5G",
-                                            "image": "phone-20.png",
-                                            "price": "$279"
-                                        }
-                                    ]
-                                },
-                                "m_series": {
-                                    "name": "M Series",
-                                    "products": [
-                                        {
-                                            "name": "POCO M7 Pro",
-                                            "image": "phone-21.png",
-                                            "price": "$249"
-                                        },
-                                        {
-                                            "name": "POCO M6",
-                                            "image": "phone-22.png",
-                                            "price": "$199"
-                                        },
-                                        {
-                                            "name": "POCO M6 Pro",
-                                            "image": "phone-23.png",
-                                            "price": "$229"
-                                        },
-                                        {
-                                            "name": "POCO M5s",
-                                            "image": "phone-24.png",
-                                            "price": "$179"
-                                        }
-                                    ]
-                                },
-                                "c_series": {
-                                    "name": "C Series",
-                                    "products": [
-                                        {
-                                            "name": "POCO C71",
-                                            "image": "phone-25.png",
-                                            "price": "$149"
-                                        },
-                                        {
-                                            "name": "POCO C75",
-                                            "image": "phone-26.png",
-                                            "price": "$159"
-                                        },
-                                        {
-                                            "name": "POCO C61",
-                                            "image": "phone-27.png",
-                                            "price": "$129"
-                                        },
-                                        {
-                                            "name": "POCO C65",
-                                            "image": "phone-28.png",
-                                            "price": "$139"
-                                        }
-                                    ]
-                                }
-                            }
-                        }
-                    }
-                },
-                "tablets": {
-                    "name": "Tablets",
-                    "products": [
-                        {
-                            "name": "Xiaomi Pad 7 Pro",
-                            "image": "tablet-1.png",
-                            "price": "$499",
-                            "featured": true
-                        },
-                        {
-                            "name": "Xiaomi Pad 6S Pro 12.4",
-                            "image": "tablet-2.png",
-                            "price": "$449"
-                        },
-                        {
-                            "name": "Xiaomi Pad Pro 5G",
-                            "image": "tablet-3.png",
-                            "price": "$399"
-                        },
-                        {
-                            "name": "Xiaomi Pad 2",
-                            "image": "tablet-4.png",
-                            "price": "$299"
-                        },
-                        {
-                            "name": "POCO Pad",
-                            "image": "tablet-5.png",
-                            "price": "$249"
-                        }
-                    ]
-                },
-                "laptops": {
-                    "name": "Laptops",
-                    "products": [
-                        {
-                            "name": "Xiaomi Book 14",
-                            "image": "laptop-1.png",
-                            "price": "$899",
-                            "featured": true
-                        },
-                        {
-                            "name": "Redmi Book 15",
-                            "image": "laptop-2.png",
-                            "price": "$699"
-                        },
-                        {
-                            "name": "Xiaomi Book S 12.4",
-                            "image": "laptop-3.png",
-                            "price": "$799"
-                        }
-                    ]
-                }
-            }
-        },
-        "wearables": {
-            "name": "Wearables",
-            "subcategories": {
-                "smartwatches": {
-                    "name": "Smart Watches",
-                    "products": [
-                        {
-                            "name": "Xiaomi Watch 2",
-                            "image": "watch-1.png",
-                            "price": "$299",
-                            "featured": true
-                        },
-                        {
-                            "name": "Xiaomi Watch S4",
-                            "image": "watch-2.png",
-                            "price": "$199"
-                        },
-                        {
-                            "name": "Redmi Watch 5",
-                            "image": "watch-3.png",
-                            "price": "$99"
-                        },
-                        {
-                            "name": "Redmi Watch 5 Lite",
-                            "image": "watch-4.png",
-                            "price": "$99"
-                        },
-                        {
-                            "name": "Redmi Watch 4",
-                            "image": "watch-5.png",
-                            "price": "$99"
-                        }
-                    ]
-                },
-                "smartbands": {
-                    "name": "Smart Bands",
-                    "products": [
-                        {
-                            "name": "Xiaomi Smart Band 10",
-                            "image": "band-1.png",
-                            "price": "$79",
-                            "featured": true
-                        },
-                        {
-                            "name": "Xiaomi Smart Band 9 Pro",
-                            "image": "band-2.png",
-                            "price": "$49"
-                        },
-                        {
-                            "name": "Redmi Smart Band 9",
-                            "image": "band-3.png",
-                            "price": "$29"
-                        },
-                        {
-                            "name": "Redmi Smart Band 8 Pro",
-                            "image": "band-4.png",
-                            "price": "$29"
-                        },
-                        {
-                            "name": "Redmi Smart Band 8",
-                            "image": "band-5.png",
-                            "price": "$29"
-                        }
-                    ]
-                },
-                "earphones": {
-                    "name": "TWS Earphones",
-                    "products": [
-                        {
-                            "name": "Xiaomi Buds 5 Pro",
-                            "image": "earphone-1.png",
-                            "price": "$129",
-                            "featured": true
-                        },
-                        {
-                            "name": "Xiaomi OpenWear Stereo",
-                            "image": "earphone-2.png",
-                            "price": "$99"
-                        },
-                        {
-                            "name": "Redmi Buds 6 Pro",
-                            "image": "earphone-3.png",
-                            "price": "$79"
-                        },
-                        {
-                            "name": "Redmi Buds 6",
-                            "image": "earphone-4.png",
-                            "price": "$79"
-                        },
-                        {
-                            "name": "Xiaomi Type-C Earphones",
-                            "image": "earphone-5.png",
-                            "price": "$79"
-                        }
-                    ]
-                }
-            }
-        },
-        "smarthome": {
-            "name": "Smart Home",
-            "subcategories": {
-                "tvs_ha": {
-                    "name": "TVs & Home Audio",
-                    "subcategories": {
-                        "tvs": {
-                            "name": "TVs",
-                            "products": [
-                                {
-                                    "name": "Xiaomi TV A2 55\"",
-                                    "image": "tv-1.png",
-                                    "price": "$399",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi TV P1 43\"",
-                                    "image": "tv-2.png",
-                                    "price": "$299"
-                                }
-                            ]
-                        },
-                        "tv_accessories": {
-                            "name": "TV Boxes/TV Sticks",
-                            "products": [
-                                {
-                                    "name": "Xiaomi TV Stick 4K",
-                                    "image": "tv-stick-1.png",
-                                    "price": "$59",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi TV Box S 2nd Gen",
-                                    "image": "tv-box-1.png",
-                                    "price": "$69"
-                                }
-                            ]
-                        },
-                        "soundbars": {
-                            "name": "Soundbars",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Soundbar 3.1ch",
-                                    "image": "soundbar-1.png",
-                                    "price": "$149",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi TV Soundbar",
-                                    "image": "soundbar-2.png",
-                                    "price": "$89"
-                                }
-                            ]
-                        },
-                        "projectors": {
-                            "name": "Projectors",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Mi Smart Projector 2 Pro",
-                                    "image": "projector-1.png",
-                                    "price": "$899",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Mi Projector Mini",
-                                    "image": "projector-2.png",
-                                    "price": "$399"
-                                }
-                            ]
-                        },
-                        "speakers": {
-                            "name": "Speakers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Mi Smart Speaker",
-                                    "image": "speaker-1.png",
-                                    "price": "$49",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Bluetooth Speaker Basic 2",
-                                    "image": "speaker-2.png",
-                                    "price": "$29"
-                                }
-                            ]
-                        },
-                        "microphones": {
-                            "name": "Microphones",
-                            "products": [
-                                {
-                                    "name": "Xiaomi USB Microphone",
-                                    "image": "microphone-1.png",
-                                    "price": "$39"
-                                },
-                                {
-                                    "name": "Xiaomi Wireless Microphone",
-                                    "image": "microphone-2.png",
-                                    "price": "$59"
-                                }
-                            ]
-                        },
-                        "smart_clocks": {
-                            "name": "Smart Clocks",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Mi Smart Clock",
-                                    "image": "clock-1.png",
-                                    "price": "$29",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Alarm Clock",
-                                    "image": "clock-2.png",
-                                    "price": "$19"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "environment_appliance": {
-                    "name": "Environment Appliance",
-                    "subcategories": {
-                        "air_purifiers": {
-                            "name": "Air Purifiers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Air Purifier 4 Pro",
-                                    "image": "airpurifier-1.png",
-                                    "price": "$199",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Air Purifier 4 Lite",
-                                    "image": "airpurifier-2.png",
-                                    "price": "$149"
-                                },
-                                {
-                                    "name": "Xiaomi Air Purifier 3H",
-                                    "image": "airpurifier-3.png",
-                                    "price": "$179"
-                                }
-                            ]
-                        },
-                        "fans": {
-                            "name": "Fans",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Standing Fan 2",
-                                    "image": "fan-1.png",
-                                    "price": "$89",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Mi Smart Fan",
-                                    "image": "fan-2.png",
-                                    "price": "$69"
-                                }
-                            ]
-                        },
-                        "heaters": {
-                            "name": "Heaters",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Space Heater S",
-                                    "image": "heater-1.png",
-                                    "price": "$79",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Electric Heater 1S",
-                                    "image": "heater-2.png",
-                                    "price": "$59"
-                                }
-                            ]
-                        },
-                        "humidifiers": {
-                            "name": "Humidifiers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Humidifier 2",
-                                    "image": "humidifier-1.png",
-                                    "price": "$79",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Humidifier Pro",
-                                    "image": "humidifier-2.png",
-                                    "price": "$99"
-                                }
-                            ]
-                        },
-                        "dehumidifiers": {
-                            "name": "Dehumidifiers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Dehumidifier",
-                                    "image": "dehumidifier-1.png",
-                                    "price": "$149"
-                                },
-                                {
-                                    "name": "Xiaomi Dehumidifier Pro",
-                                    "image": "dehumidifier-2.png",
-                                    "price": "$199"
-                                }
-                            ]
-                        },
-                        "monitors": {
-                            "name": "Temperature and Humidity Monitors",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Temperature Humidity Monitor 2",
-                                    "image": "monitor-1.png",
-                                    "price": "$9",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Hygrometer",
-                                    "image": "monitor-2.png",
-                                    "price": "$15"
-                                }
-                            ]
-                        },
-                        "accessories": {
-                            "name": "Environment Appliances Accessories",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Air Purifier Filter",
-                                    "image": "filter-1.png",
-                                    "price": "$19"
-                                },
-                                {
-                                    "name": "Xiaomi Humidifier Filter",
-                                    "image": "filter-2.png",
-                                    "price": "$12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "vacuum_cleaners": {
-                    "name": "Vacuum Cleaners",
-                    "subcategories": {
-                        "robot_vacuums": {
-                            "name": "Robot Vacuums",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Robot Vacuum S20+",
-                                    "image": "robot-vacuum-1.png",
-                                    "price": "$399",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Robot Vacuum X20",
-                                    "image": "robot-vacuum-2.png",
-                                    "price": "$299"
-                                },
-                                {
-                                    "name": "Xiaomi Robot Vacuum S10+",
-                                    "image": "robot-vacuum-3.png",
-                                    "price": "$249"
-                                }
-                            ]
-                        },
-                        "stick_vacuums": {
-                            "name": "Stick Vacuums",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Handheld Vacuum G10",
-                                    "image": "stick-vacuum-1.png",
-                                    "price": "$199",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Vacuum Cleaner G9",
-                                    "image": "stick-vacuum-2.png",
-                                    "price": "$149"
-                                }
-                            ]
-                        },
-                        "wet_dry_vacuums": {
-                            "name": "Wet-Dry Vacuums",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Wet Dry Vacuum H1",
-                                    "image": "wet-vacuum-1.png",
-                                    "price": "$179"
-                                },
-                                {
-                                    "name": "Xiaomi Wet Vacuum Pro",
-                                    "image": "wet-vacuum-2.png",
-                                    "price": "$219"
-                                }
-                            ]
-                        },
-                        "handheld_vacuums": {
-                            "name": "Handheld Vacuums",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Handheld Vacuum Mini",
-                                    "image": "handheld-vacuum-1.png",
-                                    "price": "$59",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Car Vacuum",
-                                    "image": "handheld-vacuum-2.png",
-                                    "price": "$39"
-                                }
-                            ]
-                        },
-                        "accessories": {
-                            "name": "Vacuum Cleaners Accessories",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Robot Vacuum Mop Pads",
-                                    "image": "vacuum-accessory-1.png",
-                                    "price": "$15"
-                                },
-                                {
-                                    "name": "Xiaomi Vacuum Filter Set",
-                                    "image": "vacuum-accessory-2.png",
-                                    "price": "$19"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "cooking_appliances": {
-                    "name": "Cooking Appliances",
-                    "subcategories": {
-                        "kettles": {
-                            "name": "Kettles",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Kettle Pro",
-                                    "image": "kettle-1.png",
-                                    "price": "$49",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Electric Kettle 2",
-                                    "image": "kettle-2.png",
-                                    "price": "$29"
-                                }
-                            ]
-                        },
-                        "air_fryers": {
-                            "name": "Air Fryers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Air Fryer 6.5L",
-                                    "image": "airfryer-1.png",
-                                    "price": "$89",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Air Fryer 4L",
-                                    "image": "airfryer-2.png",
-                                    "price": "$69"
-                                }
-                            ]
-                        },
-                        "cooking_robots": {
-                            "name": "Cooking Robots",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Cooking Robot",
-                                    "image": "cooking-robot-1.png",
-                                    "price": "$299"
-                                },
-                                {
-                                    "name": "Xiaomi Smart Cooker",
-                                    "image": "cooking-robot-2.png",
-                                    "price": "$199"
-                                }
-                            ]
-                        },
-                        "induction_cookers": {
-                            "name": "Induction Cookers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Induction Cooker A1",
-                                    "image": "induction-1.png",
-                                    "price": "$59",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Induction Cooker",
-                                    "image": "induction-2.png",
-                                    "price": "$79"
-                                }
-                            ]
-                        },
-                        "rice_cookers": {
-                            "name": "Rice Cookers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Rice Cooker 4L",
-                                    "image": "ricecooker-1.png",
-                                    "price": "$79",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Pressure Rice Cooker",
-                                    "image": "ricecooker-2.png",
-                                    "price": "$99"
-                                }
-                            ]
-                        },
-                        "electrical_cookers": {
-                            "name": "Electrical Cookers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Multi-Cooker Pro",
-                                    "image": "electrical-cooker-1.png",
-                                    "price": "$129"
-                                },
-                                {
-                                    "name": "Xiaomi Slow Cooker",
-                                    "image": "electrical-cooker-2.png",
-                                    "price": "$89"
-                                }
-                            ]
-                        },
-                        "microwave_oven": {
-                            "name": "Microwave Oven",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Microwave",
-                                    "image": "microwave-1.png",
-                                    "price": "$149"
-                                },
-                                {
-                                    "name": "Xiaomi Microwave Oven 23L",
-                                    "image": "microwave-2.png",
-                                    "price": "$119"
-                                }
-                            ]
-                        },
-                        "toaster": {
-                            "name": "Toaster",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Toaster",
-                                    "image": "toaster-1.png",
-                                    "price": "$49"
-                                },
-                                {
-                                    "name": "Xiaomi Bread Toaster",
-                                    "image": "toaster-2.png",
-                                    "price": "$39"
-                                }
-                            ]
-                        },
-                        "coffee_machine": {
-                            "name": "Coffee Machine",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Coffee Machine",
-                                    "image": "coffee-1.png",
-                                    "price": "$199",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Espresso Machine",
-                                    "image": "coffee-2.png",
-                                    "price": "$149"
-                                }
-                            ]
-                        },
-                        "accessories": {
-                            "name": "Cooking Appliances Accessories",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Air Fryer Accessories Set",
-                                    "image": "cooking-accessory-1.png",
-                                    "price": "$19"
-                                },
-                                {
-                                    "name": "Xiaomi Coffee Filter Pack",
-                                    "image": "cooking-accessory-2.png",
-                                    "price": "$12"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "home_security": {
-                    "name": "Home Security",
-                    "subcategories": {
-                        "security_cameras": {
-                            "name": "Security Cameras",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Security Camera 2K Pro",
-                                    "image": "security-camera-1.png",
-                                    "price": "$89",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Security Camera C400",
-                                    "image": "security-camera-2.png",
-                                    "price": "$69"
-                                },
-                                {
-                                    "name": "Xiaomi Outdoor Camera Pro",
-                                    "image": "security-camera-3.png",
-                                    "price": "$129"
-                                }
-                            ]
-                        },
-                        "smart_doorbells": {
-                            "name": "Smart Doorbells",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Doorbell 3",
-                                    "image": "doorbell-1.png",
-                                    "price": "$129",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Video Doorbell 2",
-                                    "image": "doorbell-2.png",
-                                    "price": "$89"
-                                }
-                            ]
-                        },
-                        "smart_door_locks": {
-                            "name": "Smart Door Locks",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Door Lock E10",
-                                    "image": "doorlock-1.png",
-                                    "price": "$199",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Lock Pro",
-                                    "image": "doorlock-2.png",
-                                    "price": "$149"
-                                }
-                            ]
-                        },
-                        "smart_sensors": {
-                            "name": "Smart Sensors & Hubs",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Motion Sensor",
-                                    "image": "sensor-1.png",
-                                    "price": "$19",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Hub",
-                                    "image": "sensor-2.png",
-                                    "price": "$29"
-                                },
-                                {
-                                    "name": "Xiaomi Door/Window Sensor",
-                                    "image": "sensor-3.png",
-                                    "price": "$15"
-                                }
-                            ]
-                        },
-                        "smart_plugs": {
-                            "name": "Smart Plugs",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Plug WiFi",
-                                    "image": "plug-1.png",
-                                    "price": "$12",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Power Strip",
-                                    "image": "plug-2.png",
-                                    "price": "$25"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "kitchen_appliance": {
-                    "name": "Kitchen Appliance",
-                    "subcategories": {
-                        "water_dispensers": {
-                            "name": "Water Dispensers",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Water Dispenser S1",
-                                    "image": "water-dispenser-1.png",
-                                    "price": "$199",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Instant Hot Water Dispenser",
-                                    "image": "water-dispenser-2.png",
-                                    "price": "$149"
-                                }
-                            ]
-                        },
-                        "blenders": {
-                            "name": "Blenders",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Blender",
-                                    "image": "blender-1.png",
-                                    "price": "$59",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Portable Blender",
-                                    "image": "blender-2.png",
-                                    "price": "$39"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "smart_lightings": {
-                    "name": "Smart Lightings",
-                    "subcategories": {
-                        "indoor_lightings": {
-                            "name": "Indoor Lightings",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart LED Bulb",
-                                    "image": "light-1.png",
-                                    "price": "$15",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Ceiling Light",
-                                    "image": "light-2.png",
-                                    "price": "$49"
-                                },
-                                {
-                                    "name": "Xiaomi Smart Table Lamp",
-                                    "image": "light-3.png",
-                                    "price": "$29"
-                                }
-                            ]
-                        },
-                        "smart_bulbs": {
-                            "name": "Smart Bulbs",
-                            "products": [
-                                {
-                                    "name": "Xiaomi Smart Bulb Color",
-                                    "image": "bulb-1.png",
-                                    "price": "$19",
-                                    "featured": true
-                                },
-                                {
-                                    "name": "Xiaomi Smart Bulb White",
-                                    "image": "bulb-2.png",
-                                    "price": "$12"
-                                },
-                                {
-                                    "name": "Xiaomi Smart Bulb Essential",
-                                    "image": "bulb-3.png",
-                                    "price": "$9"
-                                }
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "lifestyle": {
-            "outdoors": {
-                "name": "Outdoors",
+    "mobile": {
+        "name": "Mobile",
+        "subcategories": {
+            "phones": {
+                "name": "Phones",
                 "subcategories": {
-                    "scooters": {
-                        "name": "Scooters",
+                    "xiaomi": {
+                        "name": "Xiaomi",
                         "products": [
                             {
-                                "name": "Xiaomi Electric Scooter 4 Pro",
-                                "image": "scooter-1.png",
-                                "price": "$599",
+                                "name": "Xiaomi Mix Flip",
+                                "image": "phone-1.png",
+                                "price": "$999",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Electric Scooter 4",
-                                "image": "scooter-2.png",
-                                "price": "$499"
+                                "name": "Xiaomi 15 Ultra",
+                                "image": "phone-2.png",
+                                "price": "$1299",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi 15",
+                                "image": "phone-3.png",
+                                "price": "$899"
+                            },
+                            {
+                                "name": "Xiaomi 14T Pro",
+                                "image": "phone-4.png",
+                                "price": "$799"
+                            },
+                            {
+                                "name": "Xiaomi 14 Ultra",
+                                "image": "phone-5.png",
+                                "price": "$1199"
                             }
                         ]
                     },
-                    "air_compressors": {
-                        "name": "Air Compressors",
+                    "redmi": {
+                        "name": "Redmi",
                         "products": [
                             {
-                                "name": "Xiaomi Portable Air Compressor",
-                                "image": "compressor-1.png",
-                                "price": "$79",
+                                "name": "Redmi Note 14 Pro+ 5G",
+                                "image": "phone-6.png",
+                                "price": "$399",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Mini Air Pump",
-                                "image": "compressor-2.png",
-                                "price": "$39"
+                                "name": "Redmi Note 14 5G",
+                                "image": "phone-7.png",
+                                "price": "$299"
+                            },
+                            {
+                                "name": "Redmi Note 13",
+                                "image": "phone-8.png",
+                                "price": "$249"
+                            },
+                            {
+                                "name": "Redmi 14C",
+                                "image": "phone-9.png",
+                                "price": "$199"
+                            },
+                            {
+                                "name": "Redmi A3x",
+                                "image": "phone-10.png",
+                                "price": "$129"
                             }
                         ]
                     },
-                    "camping_lantern": {
-                        "name": "Camping Lantern",
-                        "products": [
-                            {
-                                "name": "Xiaomi Camping Lantern",
-                                "image": "lantern-1.png",
-                                "price": "$29",
-                                "featured": true
+                    "poco": {
+                        "name": "POCO",
+                        "subcategories": {
+                            "f_series": {
+                                "name": "F Series",
+                                "products": [
+                                    {
+                                        "name": "POCO F7",
+                                        "image": "phone-11.png",
+                                        "price": "$599",
+                                        "featured": true
+                                    },
+                                    {
+                                        "name": "POCO F7 Ultra",
+                                        "image": "phone-12.png",
+                                        "price": "$699"
+                                    },
+                                    {
+                                        "name": "POCO F7 Pro",
+                                        "image": "phone-13.png",
+                                        "price": "$649"
+                                    },
+                                    {
+                                        "name": "POCO F6",
+                                        "image": "phone-14.png",
+                                        "price": "$549"
+                                    },
+                                    {
+                                        "name": "POCO F6 Pro",
+                                        "image": "phone-15.png",
+                                        "price": "$599"
+                                    }
+                                ]
                             },
-                            {
-                                "name": "Xiaomi LED Lantern Pro",
-                                "image": "lantern-2.png",
-                                "price": "$49"
-                            }
-                        ]
-                    },
-                    "luggages": {
-                        "name": "Luggages",
-                        "products": [
-                            {
-                                "name": "Xiaomi Travel Suitcase 20\"",
-                                "image": "luggage-1.png",
-                                "price": "$199",
-                                "featured": true
+                            "x_series": {
+                                "name": "X Series",
+                                "products": [
+                                    {
+                                        "name": "POCO X7 Pro",
+                                        "image": "phone-16.png",
+                                        "price": "$399"
+                                    },
+                                    {
+                                        "name": "POCO X7",
+                                        "image": "phone-17.png",
+                                        "price": "$349"
+                                    },
+                                    {
+                                        "name": "POCO X6 Pro",
+                                        "image": "phone-18.png",
+                                        "price": "$329"
+                                    },
+                                    {
+                                        "name": "POCO X6",
+                                        "image": "phone-19.png",
+                                        "price": "$299"
+                                    },
+                                    {
+                                        "name": "POCO X5 Pro 5G",
+                                        "image": "phone-20.png",
+                                        "price": "$279"
+                                    }
+                                ]
                             },
-                            {
-                                "name": "Xiaomi Travel Suitcase 24\"",
-                                "image": "luggage-2.png",
-                                "price": "$229"
-                            }
-                        ]
-                    },
-                    "bags": {
-                        "name": "Bags",
-                        "products": [
-                            {
-                                "name": "Xiaomi Backpack 4",
-                                "image": "bag-1.png",
-                                "price": "$29",
-                                "featured": true
+                            "m_series": {
+                                "name": "M Series",
+                                "products": [
+                                    {
+                                        "name": "POCO M7 Pro",
+                                        "image": "phone-21.png",
+                                        "price": "$249"
+                                    },
+                                    {
+                                        "name": "POCO M6",
+                                        "image": "phone-22.png",
+                                        "price": "$199"
+                                    },
+                                    {
+                                        "name": "POCO M6 Pro",
+                                        "image": "phone-23.png",
+                                        "price": "$229"
+                                    },
+                                    {
+                                        "name": "POCO M5s",
+                                        "image": "phone-24.png",
+                                        "price": "$179"
+                                    }
+                                ]
                             },
-                            {
-                                "name": "Xiaomi Travel Bag",
-                                "image": "bag-2.png",
-                                "price": "$39"
+                            "c_series": {
+                                "name": "C Series",
+                                "products": [
+                                    {
+                                        "name": "POCO C71",
+                                        "image": "phone-25.png",
+                                        "price": "$149"
+                                    },
+                                    {
+                                        "name": "POCO C75",
+                                        "image": "phone-26.png",
+                                        "price": "$159"
+                                    },
+                                    {
+                                        "name": "POCO C61",
+                                        "image": "phone-27.png",
+                                        "price": "$129"
+                                    },
+                                    {
+                                        "name": "POCO C65",
+                                        "image": "phone-28.png",
+                                        "price": "$139"
+                                    }
+                                ]
                             }
-                        ]
-                    },
-                    "glasses": {
-                        "name": "Glasses",
-                        "products": [
-                            {
-                                "name": "Xiaomi Smart Glasses",
-                                "image": "glasses-1.png",
-                                "price": "$299",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Sunglasses",
-                                "image": "glasses-2.png",
-                                "price": "$49"
-                            }
-                        ]
+                        }
                     }
                 }
             },
-            "office": {
-                "name": "Office",
+            "tablets": {
+                "name": "Tablets",
+                "products": [
+                    {
+                        "name": "Xiaomi Pad 7 Pro",
+                        "image": "tablet-1.png",
+                        "price": "$499",
+                        "featured": true
+                    },
+                    {
+                        "name": "Xiaomi Pad 6S Pro 12.4",
+                        "image": "tablet-2.png",
+                        "price": "$449"
+                    },
+                    {
+                        "name": "Xiaomi Pad Pro 5G",
+                        "image": "tablet-3.png",
+                        "price": "$399"
+                    },
+                    {
+                        "name": "Xiaomi Pad 2",
+                        "image": "tablet-4.png",
+                        "price": "$299"
+                    },
+                    {
+                        "name": "POCO Pad",
+                        "image": "tablet-5.png",
+                        "price": "$249"
+                    }
+                ]
+            },
+            "laptops": {
+                "name": "Laptops",
+                "products": [
+                    {
+                        "name": "Xiaomi Book 14",
+                        "image": "laptop-1.png",
+                        "price": "$899",
+                        "featured": true
+                    },
+                    {
+                        "name": "Redmi Book 15",
+                        "image": "laptop-2.png",
+                        "price": "$699"
+                    },
+                    {
+                        "name": "Xiaomi Book S 12.4",
+                        "image": "laptop-3.png",
+                        "price": "$799"
+                    }
+                ]
+            }
+        }
+    },
+    "wearables": {
+        "name": "Wearables",
+        "subcategories": {
+            "smartwatches": {
+                "name": "Smart Watches",
+                "products": [
+                    {
+                        "name": "Xiaomi Watch 2",
+                        "image": "watch-1.png",
+                        "price": "$299",
+                        "featured": true
+                    },
+                    {
+                        "name": "Xiaomi Watch S4",
+                        "image": "watch-2.png",
+                        "price": "$199"
+                    },
+                    {
+                        "name": "Redmi Watch 5",
+                        "image": "watch-3.png",
+                        "price": "$99"
+                    },
+                    {
+                        "name": "Redmi Watch 5 Lite",
+                        "image": "watch-4.png",
+                        "price": "$99"
+                    },
+                    {
+                        "name": "Redmi Watch 4",
+                        "image": "watch-5.png",
+                        "price": "$99"
+                    }
+                ]
+            },
+            "smartbands": {
+                "name": "Smart Bands",
+                "products": [
+                    {
+                        "name": "Xiaomi Smart Band 10",
+                        "image": "band-1.png",
+                        "price": "$79",
+                        "featured": true
+                    },
+                    {
+                        "name": "Xiaomi Smart Band 9 Pro",
+                        "image": "band-2.png",
+                        "price": "$49"
+                    },
+                    {
+                        "name": "Redmi Smart Band 9",
+                        "image": "band-3.png",
+                        "price": "$29"
+                    },
+                    {
+                        "name": "Redmi Smart Band 8 Pro",
+                        "image": "band-4.png",
+                        "price": "$29"
+                    },
+                    {
+                        "name": "Redmi Smart Band 8",
+                        "image": "band-5.png",
+                        "price": "$29"
+                    }
+                ]
+            },
+            "earphones": {
+                "name": "TWS Earphones",
+                "products": [
+                    {
+                        "name": "Xiaomi Buds 5 Pro",
+                        "image": "earphone-1.png",
+                        "price": "$129",
+                        "featured": true
+                    },
+                    {
+                        "name": "Xiaomi OpenWear Stereo",
+                        "image": "earphone-2.png",
+                        "price": "$99"
+                    },
+                    {
+                        "name": "Redmi Buds 6 Pro",
+                        "image": "earphone-3.png",
+                        "price": "$79"
+                    },
+                    {
+                        "name": "Redmi Buds 6",
+                        "image": "earphone-4.png",
+                        "price": "$79"
+                    },
+                    {
+                        "name": "Xiaomi Type-C Earphones",
+                        "image": "earphone-5.png",
+                        "price": "$79"
+                    }
+                ]
+            }
+        }
+    },
+    "smarthome": {
+        "name": "Smart Home",
+        "subcategories": {
+            "tvs_ha": {
+                "name": "TVs & Home Audio",
                 "subcategories": {
-                    "ink_pens": {
-                        "name": "Ink Pens",
+                    "tvs": {
+                        "name": "TVs",
                         "products": [
                             {
-                                "name": "Xiaomi Gel Pen Set",
-                                "image": "pen-1.png",
-                                "price": "$9",
+                                "name": "Xiaomi TV A2 55\"",
+                                "image": "tv-1.png",
+                                "price": "$399",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Ballpoint Pen",
-                                "image": "pen-2.png",
-                                "price": "$5"
+                                "name": "Xiaomi TV P1 43\"",
+                                "image": "tv-2.png",
+                                "price": "$299"
                             }
                         ]
                     },
-                    "keyboards_mouse": {
-                        "name": "Keyboards and Mouse",
+                    "tv_accessories": {
+                        "name": "TV Boxes/TV Sticks",
                         "products": [
                             {
-                                "name": "Xiaomi Wireless Keyboard",
-                                "image": "keyboard-1.png",
+                                "name": "Xiaomi TV Stick 4K",
+                                "image": "tv-stick-1.png",
                                 "price": "$59",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Wireless Mouse",
-                                "image": "mouse-1.png",
-                                "price": "$19"
-                            }
-                        ]
-                    },
-                    "writing_tablets": {
-                        "name": "Writing Tablets",
-                        "products": [
-                            {
-                                "name": "Xiaomi LCD Writing Tablet",
-                                "image": "writing-tablet-1.png",
-                                "price": "$29",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Digital Writing Pad",
-                                "image": "writing-tablet-2.png",
-                                "price": "$49"
-                            }
-                        ]
-                    },
-                    "photo_printers": {
-                        "name": "Photo Printers",
-                        "products": [
-                            {
-                                "name": "Xiaomi Portable Photo Printer",
-                                "image": "printer-1.png",
-                                "price": "$89",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Instant Photo Printer",
-                                "image": "printer-2.png",
+                                "name": "Xiaomi TV Box S 2nd Gen",
+                                "image": "tv-box-1.png",
                                 "price": "$69"
                             }
                         ]
                     },
-                    "wifi_range_extenders": {
-                        "name": "Wi-Fi Range Extenders",
+                    "soundbars": {
+                        "name": "Soundbars",
                         "products": [
                             {
-                                "name": "Xiaomi Wi-Fi Extender Pro",
-                                "image": "extender-1.png",
-                                "price": "$39",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Wi-Fi Extender",
-                                "image": "extender-2.png",
-                                "price": "$19"
-                            }
-                        ]
-                    },
-                    "routers": {
-                        "name": "Routers",
-                        "products": [
-                            {
-                                "name": "Xiaomi Router AX3000",
-                                "image": "router-1.png",
-                                "price": "$89",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Router AC1200",
-                                "image": "router-2.png",
-                                "price": "$49"
-                            }
-                        ]
-                    },
-                    "monitors": {
-                        "name": "Monitors",
-                        "products": [
-                            {
-                                "name": "Xiaomi Monitor 27\"",
-                                "image": "monitor-1.png",
-                                "price": "$299",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Monitor 24\"",
-                                "image": "monitor-2.png",
-                                "price": "$199"
-                            }
-                        ]
-                    },
-                    "power_strips": {
-                        "name": "Power Strips",
-                        "products": [
-                            {
-                                "name": "Xiaomi Power Strip 6 Outlets",
-                                "image": "power-strip-1.png",
-                                "price": "$29",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Smart Power Strip",
-                                "image": "power-strip-2.png",
-                                "price": "$39"
-                            }
-                        ]
-                    },
-                    "flash_drives": {
-                        "name": "Flash Drives",
-                        "products": [
-                            {
-                                "name": "Xiaomi USB Flash Drive 64GB",
-                                "image": "flash-drive-1.png",
-                                "price": "$19",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi USB Flash Drive 32GB",
-                                "image": "flash-drive-2.png",
-                                "price": "$12"
-                            }
-                        ]
-                    }
-                }
-            },
-            "health_fitness": {
-                "name": "Health & Fitness",
-                "subcategories": {
-                    "scales": {
-                        "name": "Scales",
-                        "products": [
-                            {
-                                "name": "Xiaomi Smart Scale 2",
-                                "image": "scale-1.png",
-                                "price": "$39",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Body Composition Scale",
-                                "image": "scale-2.png",
-                                "price": "$59"
-                            }
-                        ]
-                    },
-                    "massage_guns": {
-                        "name": "Massage Guns",
-                        "products": [
-                            {
-                                "name": "Xiaomi Massage Gun Pro",
-                                "image": "massage-gun-1.png",
+                                "name": "Xiaomi Soundbar 3.1ch",
+                                "image": "soundbar-1.png",
                                 "price": "$149",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Massage Gun",
-                                "image": "massage-gun-2.png",
+                                "name": "Xiaomi TV Soundbar",
+                                "image": "soundbar-2.png",
                                 "price": "$89"
                             }
                         ]
                     },
-                    "water_bottles": {
-                        "name": "Water Bottles",
+                    "projectors": {
+                        "name": "Projectors",
                         "products": [
                             {
-                                "name": "Xiaomi Smart Water Bottle",
-                                "image": "water-bottle-1.png",
-                                "price": "$29",
+                                "name": "Xiaomi Mi Smart Projector 2 Pro",
+                                "image": "projector-1.png",
+                                "price": "$899",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Thermal Water Bottle",
-                                "image": "water-bottle-2.png",
-                                "price": "$19"
+                                "name": "Xiaomi Mi Projector Mini",
+                                "image": "projector-2.png",
+                                "price": "$399"
                             }
                         ]
                     },
-                    "pets_care": {
-                        "name": "Pets Care",
+                    "speakers": {
+                        "name": "Speakers",
                         "products": [
                             {
-                                "name": "Xiaomi Pet Feeder",
-                                "image": "pet-feeder-1.png",
-                                "price": "$79",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Pet Water Fountain",
-                                "image": "pet-fountain-1.png",
-                                "price": "$49"
-                            }
-                        ]
-                    },
-                    "clothing_care": {
-                        "name": "Clothing Care",
-                        "products": [
-                            {
-                                "name": "Xiaomi Garment Steamer",
-                                "image": "steamer-1.png",
-                                "price": "$89",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Lint Remover",
-                                "image": "lint-remover-1.png",
-                                "price": "$19"
-                            }
-                        ]
-                    },
-                    "soap_dispensers": {
-                        "name": "Soap Dispensers",
-                        "products": [
-                            {
-                                "name": "Xiaomi Automatic Soap Dispenser",
-                                "image": "soap-dispenser-1.png",
-                                "price": "$29",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Foam Soap Dispenser",
-                                "image": "soap-dispenser-2.png",
-                                "price": "$19"
-                            }
-                        ]
-                    },
-                    "health_fitness_accessories": {
-                        "name": "Health & Fitness Accessories",
-                        "products": [
-                            {
-                                "name": "Xiaomi Resistance Bands Set",
-                                "image": "fitness-accessory-1.png",
-                                "price": "$19",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Yoga Mat",
-                                "image": "fitness-accessory-2.png",
-                                "price": "$29"
-                            }
-                        ]
-                    }
-                }
-            },
-            "personal_care": {
-                "name": "Personal Care",
-                "subcategories": {
-                    "oral_care": {
-                        "name": "Oral Care",
-                        "products": [
-                            {
-                                "name": "Xiaomi Electric Toothbrush",
-                                "image": "toothbrush-1.png",
-                                "price": "$39",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Water Flosser",
-                                "image": "flosser-1.png",
-                                "price": "$59"
-                            }
-                        ]
-                    },
-                    "hair_clippers": {
-                        "name": "Hair Clippers",
-                        "products": [
-                            {
-                                "name": "Xiaomi Hair Clipper",
-                                "image": "clipper-1.png",
-                                "price": "$29",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Beard Trimmer",
-                                "image": "trimmer-1.png",
-                                "price": "$19"
-                            }
-                        ]
-                    },
-                    "electric_shavers": {
-                        "name": "Electric Shavers",
-                        "products": [
-                            {
-                                "name": "Xiaomi Electric Shaver S500",
-                                "image": "shaver-1.png",
-                                "price": "$79",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Electric Shaver S300",
-                                "image": "shaver-2.png",
-                                "price": "$49"
-                            }
-                        ]
-                    },
-                    "hair_dryers": {
-                        "name": "Hair Dryers",
-                        "products": [
-                            {
-                                "name": "Xiaomi Hair Dryer H500",
-                                "image": "dryer-1.png",
-                                "price": "$89",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Hair Dryer H300",
-                                "image": "dryer-2.png",
-                                "price": "$59"
-                            }
-                        ]
-                    },
-                    "hair_straightener_brushes": {
-                        "name": "Hair Straightener Brushes",
-                        "products": [
-                            {
-                                "name": "Xiaomi Hair Straightener Brush",
-                                "image": "straightener-1.png",
+                                "name": "Xiaomi Mi Smart Speaker",
+                                "image": "speaker-1.png",
                                 "price": "$49",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Hair Styling Brush",
-                                "image": "styling-brush-1.png",
+                                "name": "Xiaomi Bluetooth Speaker Basic 2",
+                                "image": "speaker-2.png",
                                 "price": "$29"
                             }
                         ]
                     },
-                    "personal_care_accessories": {
-                        "name": "Personal Care Accessories",
+                    "microphones": {
+                        "name": "Microphones",
                         "products": [
                             {
-                                "name": "Xiaomi Nail Clipper Set",
-                                "image": "nail-clipper-1.png",
-                                "price": "$15",
+                                "name": "Xiaomi USB Microphone",
+                                "image": "microphone-1.png",
+                                "price": "$39"
+                            },
+                            {
+                                "name": "Xiaomi Wireless Microphone",
+                                "image": "microphone-2.png",
+                                "price": "$59"
+                            }
+                        ]
+                    },
+                    "smart_clocks": {
+                        "name": "Smart Clocks",
+                        "products": [
+                            {
+                                "name": "Xiaomi Mi Smart Clock",
+                                "image": "clock-1.png",
+                                "price": "$29",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Facial Cleansing Brush",
-                                "image": "facial-brush-1.png",
-                                "price": "$39"
+                                "name": "Xiaomi Alarm Clock",
+                                "image": "clock-2.png",
+                                "price": "$19"
                             }
                         ]
                     }
                 }
             },
-            "tools": {
-                "name": "Tools",
+            "environment_appliance": {
+                "name": "Environment Appliance",
                 "subcategories": {
-                    "pressure_washers": {
-                        "name": "Pressure Washers",
+                    "air_purifiers": {
+                        "name": "Air Purifiers",
                         "products": [
                             {
-                                "name": "Xiaomi Pressure Washer Pro",
-                                "image": "pressure-washer-1.png",
+                                "name": "Xiaomi Air Purifier 4 Pro",
+                                "image": "airpurifier-1.png",
                                 "price": "$199",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Handheld Pressure Washer",
-                                "image": "pressure-washer-2.png",
-                                "price": "$89"
-                            }
-                        ]
-                    },
-                    "laser_measures": {
-                        "name": "Laser Measures",
-                        "products": [
-                            {
-                                "name": "Xiaomi Laser Distance Meter",
-                                "image": "laser-measure-1.png",
-                                "price": "$39",
-                                "featured": true
+                                "name": "Xiaomi Air Purifier 4 Lite",
+                                "image": "airpurifier-2.png",
+                                "price": "$149"
                             },
                             {
-                                "name": "Xiaomi Digital Tape Measure",
-                                "image": "tape-measure-1.png",
-                                "price": "$19"
+                                "name": "Xiaomi Air Purifier 3H",
+                                "image": "airpurifier-3.png",
+                                "price": "$179"
                             }
                         ]
                     },
-                    "screwdrivers": {
-                        "name": "Screwdrivers",
+                    "fans": {
+                        "name": "Fans",
                         "products": [
                             {
-                                "name": "Xiaomi Electric Screwdriver Kit",
-                                "image": "screwdriver-1.png",
-                                "price": "$49",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Precision Screwdriver Set",
-                                "image": "screwdriver-2.png",
-                                "price": "$19"
-                            }
-                        ]
-                    },
-                    "flashlights": {
-                        "name": "Flashlights",
-                        "products": [
-                            {
-                                "name": "Xiaomi LED Flashlight",
-                                "image": "flashlight-1.png",
-                                "price": "$29",
-                                "featured": true
-                            },
-                            {
-                                "name": "Xiaomi Mini Flashlight",
-                                "image": "flashlight-2.png",
-                                "price": "$15"
-                            }
-                        ]
-                    },
-                    "cordless_drills": {
-                        "name": "Cordless Drills",
-                        "products": [
-                            {
-                                "name": "Xiaomi Cordless Drill Pro",
-                                "image": "drill-1.png",
+                                "name": "Xiaomi Smart Standing Fan 2",
+                                "image": "fan-1.png",
                                 "price": "$89",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Mini Cordless Drill",
-                                "image": "drill-2.png",
-                                "price": "$49"
+                                "name": "Xiaomi Mi Smart Fan",
+                                "image": "fan-2.png",
+                                "price": "$69"
                             }
                         ]
                     },
-                    "selfie_sticks": {
-                        "name": "Selfie Sticks",
+                    "heaters": {
+                        "name": "Heaters",
                         "products": [
                             {
-                                "name": "Xiaomi Selfie Stick Bluetooth",
-                                "image": "selfie-stick-1.png",
-                                "price": "$19",
+                                "name": "Xiaomi Smart Space Heater S",
+                                "image": "heater-1.png",
+                                "price": "$79",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Tripod Selfie Stick",
-                                "image": "selfie-stick-2.png",
-                                "price": "$29"
+                                "name": "Xiaomi Electric Heater 1S",
+                                "image": "heater-2.png",
+                                "price": "$59"
+                            }
+                        ]
+                    },
+                    "humidifiers": {
+                        "name": "Humidifiers",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Humidifier 2",
+                                "image": "humidifier-1.png",
+                                "price": "$79",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Humidifier Pro",
+                                "image": "humidifier-2.png",
+                                "price": "$99"
+                            }
+                        ]
+                    },
+                    "dehumidifiers": {
+                        "name": "Dehumidifiers",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Dehumidifier",
+                                "image": "dehumidifier-1.png",
+                                "price": "$149"
+                            },
+                            {
+                                "name": "Xiaomi Dehumidifier Pro",
+                                "image": "dehumidifier-2.png",
+                                "price": "$199"
+                            }
+                        ]
+                    },
+                    "monitors": {
+                        "name": "Temperature and Humidity Monitors",
+                        "products": [
+                            {
+                                "name": "Xiaomi Temperature Humidity Monitor 2",
+                                "image": "monitor-1.png",
+                                "price": "$9",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Hygrometer",
+                                "image": "monitor-2.png",
+                                "price": "$15"
+                            }
+                        ]
+                    },
+                    "accessories": {
+                        "name": "Environment Appliances Accessories",
+                        "products": [
+                            {
+                                "name": "Xiaomi Air Purifier Filter",
+                                "image": "filter-1.png",
+                                "price": "$19"
+                            },
+                            {
+                                "name": "Xiaomi Humidifier Filter",
+                                "image": "filter-2.png",
+                                "price": "$12"
                             }
                         ]
                     }
                 }
             },
-            "chargings": {
-                "name": "Chargings",
+            "vacuum_cleaners": {
+                "name": "Vacuum Cleaners",
                 "subcategories": {
-                    "power_banks": {
-                        "name": "Power Banks",
+                    "robot_vacuums": {
+                        "name": "Robot Vacuums",
                         "products": [
                             {
-                                "name": "Xiaomi Power Bank 4 20000mAh",
-                                "image": "powerbank-1.png",
-                                "price": "$49",
+                                "name": "Xiaomi Robot Vacuum S20+",
+                                "image": "robot-vacuum-1.png",
+                                "price": "$399",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Wireless Power Bank 10000mAh",
-                                "image": "powerbank-2.png",
+                                "name": "Xiaomi Robot Vacuum X20",
+                                "image": "robot-vacuum-2.png",
+                                "price": "$299"
+                            },
+                            {
+                                "name": "Xiaomi Robot Vacuum S10+",
+                                "image": "robot-vacuum-3.png",
+                                "price": "$249"
+                            }
+                        ]
+                    },
+                    "stick_vacuums": {
+                        "name": "Stick Vacuums",
+                        "products": [
+                            {
+                                "name": "Xiaomi Handheld Vacuum G10",
+                                "image": "stick-vacuum-1.png",
+                                "price": "$199",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Vacuum Cleaner G9",
+                                "image": "stick-vacuum-2.png",
+                                "price": "$149"
+                            }
+                        ]
+                    },
+                    "wet_dry_vacuums": {
+                        "name": "Wet-Dry Vacuums",
+                        "products": [
+                            {
+                                "name": "Xiaomi Wet Dry Vacuum H1",
+                                "image": "wet-vacuum-1.png",
+                                "price": "$179"
+                            },
+                            {
+                                "name": "Xiaomi Wet Vacuum Pro",
+                                "image": "wet-vacuum-2.png",
+                                "price": "$219"
+                            }
+                        ]
+                    },
+                    "handheld_vacuums": {
+                        "name": "Handheld Vacuums",
+                        "products": [
+                            {
+                                "name": "Xiaomi Handheld Vacuum Mini",
+                                "image": "handheld-vacuum-1.png",
+                                "price": "$59",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Car Vacuum",
+                                "image": "handheld-vacuum-2.png",
                                 "price": "$39"
                             }
                         ]
                     },
-                    "power_adapters": {
-                        "name": "Power Adapters",
+                    "accessories": {
+                        "name": "Vacuum Cleaners Accessories",
                         "products": [
                             {
-                                "name": "Xiaomi 67W GaN Charger",
-                                "image": "adapter-1.png",
-                                "price": "$29",
-                                "featured": true
+                                "name": "Xiaomi Robot Vacuum Mop Pads",
+                                "image": "vacuum-accessory-1.png",
+                                "price": "$15"
                             },
                             {
-                                "name": "Xiaomi 33W Wall Charger",
-                                "image": "adapter-2.png",
+                                "name": "Xiaomi Vacuum Filter Set",
+                                "image": "vacuum-accessory-2.png",
                                 "price": "$19"
                             }
                         ]
-                    },
-                    "wireless_chargings": {
-                        "name": "Wireless Chargings",
+                    }
+                }
+            },
+            "cooking_appliances": {
+                "name": "Cooking Appliances",
+                "subcategories": {
+                    "kettles": {
+                        "name": "Kettles",
                         "products": [
                             {
-                                "name": "Xiaomi Wireless Charger 50W",
-                                "image": "wireless-charger-1.png",
-                                "price": "$39",
+                                "name": "Xiaomi Smart Kettle Pro",
+                                "image": "kettle-1.png",
+                                "price": "$49",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Wireless Charger Stand",
-                                "image": "wireless-charger-2.png",
-                                "price": "$19"
+                                "name": "Xiaomi Electric Kettle 2",
+                                "image": "kettle-2.png",
+                                "price": "$29"
                             }
                         ]
                     },
-                    "cables": {
-                        "name": "Cables",
+                    "air_fryers": {
+                        "name": "Air Fryers",
                         "products": [
                             {
-                                "name": "Xiaomi USB-C Cable 1.5m",
-                                "image": "cable-1.png",
-                                "price": "$9",
+                                "name": "Xiaomi Smart Air Fryer 6.5L",
+                                "image": "airfryer-1.png",
+                                "price": "$89",
                                 "featured": true
                             },
                             {
-                                "name": "Xiaomi Lightning Cable 1m",
-                                "image": "cable-2.png",
+                                "name": "Xiaomi Air Fryer 4L",
+                                "image": "airfryer-2.png",
+                                "price": "$69"
+                            }
+                        ]
+                    },
+                    "cooking_robots": {
+                        "name": "Cooking Robots",
+                        "products": [
+                            {
+                                "name": "Xiaomi Cooking Robot",
+                                "image": "cooking-robot-1.png",
+                                "price": "$299"
+                            },
+                            {
+                                "name": "Xiaomi Smart Cooker",
+                                "image": "cooking-robot-2.png",
+                                "price": "$199"
+                            }
+                        ]
+                    },
+                    "induction_cookers": {
+                        "name": "Induction Cookers",
+                        "products": [
+                            {
+                                "name": "Xiaomi Induction Cooker A1",
+                                "image": "induction-1.png",
+                                "price": "$59",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Induction Cooker",
+                                "image": "induction-2.png",
+                                "price": "$79"
+                            }
+                        ]
+                    },
+                    "rice_cookers": {
+                        "name": "Rice Cookers",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Rice Cooker 4L",
+                                "image": "ricecooker-1.png",
+                                "price": "$79",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Pressure Rice Cooker",
+                                "image": "ricecooker-2.png",
+                                "price": "$99"
+                            }
+                        ]
+                    },
+                    "electrical_cookers": {
+                        "name": "Electrical Cookers",
+                        "products": [
+                            {
+                                "name": "Xiaomi Multi-Cooker Pro",
+                                "image": "electrical-cooker-1.png",
+                                "price": "$129"
+                            },
+                            {
+                                "name": "Xiaomi Slow Cooker",
+                                "image": "electrical-cooker-2.png",
+                                "price": "$89"
+                            }
+                        ]
+                    },
+                    "microwave_oven": {
+                        "name": "Microwave Oven",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Microwave",
+                                "image": "microwave-1.png",
+                                "price": "$149"
+                            },
+                            {
+                                "name": "Xiaomi Microwave Oven 23L",
+                                "image": "microwave-2.png",
+                                "price": "$119"
+                            }
+                        ]
+                    },
+                    "toaster": {
+                        "name": "Toaster",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Toaster",
+                                "image": "toaster-1.png",
+                                "price": "$49"
+                            },
+                            {
+                                "name": "Xiaomi Bread Toaster",
+                                "image": "toaster-2.png",
+                                "price": "$39"
+                            }
+                        ]
+                    },
+                    "coffee_machine": {
+                        "name": "Coffee Machine",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Coffee Machine",
+                                "image": "coffee-1.png",
+                                "price": "$199",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Espresso Machine",
+                                "image": "coffee-2.png",
+                                "price": "$149"
+                            }
+                        ]
+                    },
+                    "accessories": {
+                        "name": "Cooking Appliances Accessories",
+                        "products": [
+                            {
+                                "name": "Xiaomi Air Fryer Accessories Set",
+                                "image": "cooking-accessory-1.png",
+                                "price": "$19"
+                            },
+                            {
+                                "name": "Xiaomi Coffee Filter Pack",
+                                "image": "cooking-accessory-2.png",
                                 "price": "$12"
                             }
                         ]
                     }
+                }
+            },
+            "home_security": {
+                "name": "Home Security",
+                "subcategories": {
+                    "security_cameras": {
+                        "name": "Security Cameras",
+                        "products": [
+                            {
+                                "name": "Xiaomi Security Camera 2K Pro",
+                                "image": "security-camera-1.png",
+                                "price": "$89",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Security Camera C400",
+                                "image": "security-camera-2.png",
+                                "price": "$69"
+                            },
+                            {
+                                "name": "Xiaomi Outdoor Camera Pro",
+                                "image": "security-camera-3.png",
+                                "price": "$129"
+                            }
+                        ]
+                    },
+                    "smart_doorbells": {
+                        "name": "Smart Doorbells",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Doorbell 3",
+                                "image": "doorbell-1.png",
+                                "price": "$129",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Video Doorbell 2",
+                                "image": "doorbell-2.png",
+                                "price": "$89"
+                            }
+                        ]
+                    },
+                    "smart_door_locks": {
+                        "name": "Smart Door Locks",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Door Lock E10",
+                                "image": "doorlock-1.png",
+                                "price": "$199",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Lock Pro",
+                                "image": "doorlock-2.png",
+                                "price": "$149"
+                            }
+                        ]
+                    },
+                    "smart_sensors": {
+                        "name": "Smart Sensors & Hubs",
+                        "products": [
+                            {
+                                "name": "Xiaomi Motion Sensor",
+                                "image": "sensor-1.png",
+                                "price": "$19",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Hub",
+                                "image": "sensor-2.png",
+                                "price": "$29"
+                            },
+                            {
+                                "name": "Xiaomi Door/Window Sensor",
+                                "image": "sensor-3.png",
+                                "price": "$15"
+                            }
+                        ]
+                    },
+                    "smart_plugs": {
+                        "name": "Smart Plugs",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Plug WiFi",
+                                "image": "plug-1.png",
+                                "price": "$12",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Power Strip",
+                                "image": "plug-2.png",
+                                "price": "$25"
+                            }
+                        ]
+                    }
+                }
+            },
+            "kitchen_appliance": {
+                "name": "Kitchen Appliance",
+                "subcategories": {
+                    "water_dispensers": {
+                        "name": "Water Dispensers",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Water Dispenser S1",
+                                "image": "water-dispenser-1.png",
+                                "price": "$199",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Instant Hot Water Dispenser",
+                                "image": "water-dispenser-2.png",
+                                "price": "$149"
+                            }
+                        ]
+                    },
+                    "blenders": {
+                        "name": "Blenders",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Blender",
+                                "image": "blender-1.png",
+                                "price": "$59",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Portable Blender",
+                                "image": "blender-2.png",
+                                "price": "$39"
+                            }
+                        ]
+                    }
+                }
+            },
+            "smart_lightings": {
+                "name": "Smart Lightings",
+                "subcategories": {
+                    "indoor_lightings": {
+                        "name": "Indoor Lightings",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart LED Bulb",
+                                "image": "light-1.png",
+                                "price": "$15",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Ceiling Light",
+                                "image": "light-2.png",
+                                "price": "$49"
+                            },
+                            {
+                                "name": "Xiaomi Smart Table Lamp",
+                                "image": "light-3.png",
+                                "price": "$29"
+                            }
+                        ]
+                    },
+                    "smart_bulbs": {
+                        "name": "Smart Bulbs",
+                        "products": [
+                            {
+                                "name": "Xiaomi Smart Bulb Color",
+                                "image": "bulb-1.png",
+                                "price": "$19",
+                                "featured": true
+                            },
+                            {
+                                "name": "Xiaomi Smart Bulb White",
+                                "image": "bulb-2.png",
+                                "price": "$12"
+                            },
+                            {
+                                "name": "Xiaomi Smart Bulb Essential",
+                                "image": "bulb-3.png",
+                                "price": "$9"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "lifestyle": {
+        "outdoors": {
+            "name": "Outdoors",
+            "subcategories": {
+                "scooters": {
+                    "name": "Scooters",
+                    "products": [
+                        {
+                            "name": "Xiaomi Electric Scooter 4 Pro",
+                            "image": "scooter-1.png",
+                            "price": "$599",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Electric Scooter 4",
+                            "image": "scooter-2.png",
+                            "price": "$499"
+                        }
+                    ]
+                },
+                "air_compressors": {
+                    "name": "Air Compressors",
+                    "products": [
+                        {
+                            "name": "Xiaomi Portable Air Compressor",
+                            "image": "compressor-1.png",
+                            "price": "$79",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Mini Air Pump",
+                            "image": "compressor-2.png",
+                            "price": "$39"
+                        }
+                    ]
+                },
+                "camping_lantern": {
+                    "name": "Camping Lantern",
+                    "products": [
+                        {
+                            "name": "Xiaomi Camping Lantern",
+                            "image": "lantern-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi LED Lantern Pro",
+                            "image": "lantern-2.png",
+                            "price": "$49"
+                        }
+                    ]
+                },
+                "luggages": {
+                    "name": "Luggages",
+                    "products": [
+                        {
+                            "name": "Xiaomi Travel Suitcase 20\"",
+                            "image": "luggage-1.png",
+                            "price": "$199",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Travel Suitcase 24\"",
+                            "image": "luggage-2.png",
+                            "price": "$229"
+                        }
+                    ]
+                },
+                "bags": {
+                    "name": "Bags",
+                    "products": [
+                        {
+                            "name": "Xiaomi Backpack 4",
+                            "image": "bag-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Travel Bag",
+                            "image": "bag-2.png",
+                            "price": "$39"
+                        }
+                    ]
+                },
+                "glasses": {
+                    "name": "Glasses",
+                    "products": [
+                        {
+                            "name": "Xiaomi Smart Glasses",
+                            "image": "glasses-1.png",
+                            "price": "$299",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Sunglasses",
+                            "image": "glasses-2.png",
+                            "price": "$49"
+                        }
+                    ]
+                }
+            }
+        },
+        "office": {
+            "name": "Office",
+            "subcategories": {
+                "ink_pens": {
+                    "name": "Ink Pens",
+                    "products": [
+                        {
+                            "name": "Xiaomi Gel Pen Set",
+                            "image": "pen-1.png",
+                            "price": "$9",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Ballpoint Pen",
+                            "image": "pen-2.png",
+                            "price": "$5"
+                        }
+                    ]
+                },
+                "keyboards_mouse": {
+                    "name": "Keyboards and Mouse",
+                    "products": [
+                        {
+                            "name": "Xiaomi Wireless Keyboard",
+                            "image": "keyboard-1.png",
+                            "price": "$59",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Wireless Mouse",
+                            "image": "mouse-1.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "writing_tablets": {
+                    "name": "Writing Tablets",
+                    "products": [
+                        {
+                            "name": "Xiaomi LCD Writing Tablet",
+                            "image": "writing-tablet-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Digital Writing Pad",
+                            "image": "writing-tablet-2.png",
+                            "price": "$49"
+                        }
+                    ]
+                },
+                "photo_printers": {
+                    "name": "Photo Printers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Portable Photo Printer",
+                            "image": "printer-1.png",
+                            "price": "$89",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Instant Photo Printer",
+                            "image": "printer-2.png",
+                            "price": "$69"
+                        }
+                    ]
+                },
+                "wifi_range_extenders": {
+                    "name": "Wi-Fi Range Extenders",
+                    "products": [
+                        {
+                            "name": "Xiaomi Wi-Fi Extender Pro",
+                            "image": "extender-1.png",
+                            "price": "$39",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Wi-Fi Extender",
+                            "image": "extender-2.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "routers": {
+                    "name": "Routers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Router AX3000",
+                            "image": "router-1.png",
+                            "price": "$89",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Router AC1200",
+                            "image": "router-2.png",
+                            "price": "$49"
+                        }
+                    ]
+                },
+                "monitors": {
+                    "name": "Monitors",
+                    "products": [
+                        {
+                            "name": "Xiaomi Monitor 27\"",
+                            "image": "monitor-1.png",
+                            "price": "$299",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Monitor 24\"",
+                            "image": "monitor-2.png",
+                            "price": "$199"
+                        }
+                    ]
+                },
+                "power_strips": {
+                    "name": "Power Strips",
+                    "products": [
+                        {
+                            "name": "Xiaomi Power Strip 6 Outlets",
+                            "image": "power-strip-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Smart Power Strip",
+                            "image": "power-strip-2.png",
+                            "price": "$39"
+                        }
+                    ]
+                },
+                "flash_drives": {
+                    "name": "Flash Drives",
+                    "products": [
+                        {
+                            "name": "Xiaomi USB Flash Drive 64GB",
+                            "image": "flash-drive-1.png",
+                            "price": "$19",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi USB Flash Drive 32GB",
+                            "image": "flash-drive-2.png",
+                            "price": "$12"
+                        }
+                    ]
+                }
+            }
+        },
+        "health_fitness": {
+            "name": "Health & Fitness",
+            "subcategories": {
+                "scales": {
+                    "name": "Scales",
+                    "products": [
+                        {
+                            "name": "Xiaomi Smart Scale 2",
+                            "image": "scale-1.png",
+                            "price": "$39",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Body Composition Scale",
+                            "image": "scale-2.png",
+                            "price": "$59"
+                        }
+                    ]
+                },
+                "massage_guns": {
+                    "name": "Massage Guns",
+                    "products": [
+                        {
+                            "name": "Xiaomi Massage Gun Pro",
+                            "image": "massage-gun-1.png",
+                            "price": "$149",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Massage Gun",
+                            "image": "massage-gun-2.png",
+                            "price": "$89"
+                        }
+                    ]
+                },
+                "water_bottles": {
+                    "name": "Water Bottles",
+                    "products": [
+                        {
+                            "name": "Xiaomi Smart Water Bottle",
+                            "image": "water-bottle-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Thermal Water Bottle",
+                            "image": "water-bottle-2.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "pets_care": {
+                    "name": "Pets Care",
+                    "products": [
+                        {
+                            "name": "Xiaomi Pet Feeder",
+                            "image": "pet-feeder-1.png",
+                            "price": "$79",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Pet Water Fountain",
+                            "image": "pet-fountain-1.png",
+                            "price": "$49"
+                        }
+                    ]
+                },
+                "clothing_care": {
+                    "name": "Clothing Care",
+                    "products": [
+                        {
+                            "name": "Xiaomi Garment Steamer",
+                            "image": "steamer-1.png",
+                            "price": "$89",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Lint Remover",
+                            "image": "lint-remover-1.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "soap_dispensers": {
+                    "name": "Soap Dispensers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Automatic Soap Dispenser",
+                            "image": "soap-dispenser-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Foam Soap Dispenser",
+                            "image": "soap-dispenser-2.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "health_fitness_accessories": {
+                    "name": "Health & Fitness Accessories",
+                    "products": [
+                        {
+                            "name": "Xiaomi Resistance Bands Set",
+                            "image": "fitness-accessory-1.png",
+                            "price": "$19",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Yoga Mat",
+                            "image": "fitness-accessory-2.png",
+                            "price": "$29"
+                        }
+                    ]
+                }
+            }
+        },
+        "personal_care": {
+            "name": "Personal Care",
+            "subcategories": {
+                "oral_care": {
+                    "name": "Oral Care",
+                    "products": [
+                        {
+                            "name": "Xiaomi Electric Toothbrush",
+                            "image": "toothbrush-1.png",
+                            "price": "$39",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Water Flosser",
+                            "image": "flosser-1.png",
+                            "price": "$59"
+                        }
+                    ]
+                },
+                "hair_clippers": {
+                    "name": "Hair Clippers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Hair Clipper",
+                            "image": "clipper-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Beard Trimmer",
+                            "image": "trimmer-1.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "electric_shavers": {
+                    "name": "Electric Shavers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Electric Shaver S500",
+                            "image": "shaver-1.png",
+                            "price": "$79",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Electric Shaver S300",
+                            "image": "shaver-2.png",
+                            "price": "$49"
+                        }
+                    ]
+                },
+                "hair_dryers": {
+                    "name": "Hair Dryers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Hair Dryer H500",
+                            "image": "dryer-1.png",
+                            "price": "$89",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Hair Dryer H300",
+                            "image": "dryer-2.png",
+                            "price": "$59"
+                        }
+                    ]
+                },
+                "hair_straightener_brushes": {
+                    "name": "Hair Straightener Brushes",
+                    "products": [
+                        {
+                            "name": "Xiaomi Hair Straightener Brush",
+                            "image": "straightener-1.png",
+                            "price": "$49",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Hair Styling Brush",
+                            "image": "styling-brush-1.png",
+                            "price": "$29"
+                        }
+                    ]
+                },
+                "personal_care_accessories": {
+                    "name": "Personal Care Accessories",
+                    "products": [
+                        {
+                            "name": "Xiaomi Nail Clipper Set",
+                            "image": "nail-clipper-1.png",
+                            "price": "$15",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Facial Cleansing Brush",
+                            "image": "facial-brush-1.png",
+                            "price": "$39"
+                        }
+                    ]
+                }
+            }
+        },
+        "tools": {
+            "name": "Tools",
+            "subcategories": {
+                "pressure_washers": {
+                    "name": "Pressure Washers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Pressure Washer Pro",
+                            "image": "pressure-washer-1.png",
+                            "price": "$199",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Handheld Pressure Washer",
+                            "image": "pressure-washer-2.png",
+                            "price": "$89"
+                        }
+                    ]
+                },
+                "laser_measures": {
+                    "name": "Laser Measures",
+                    "products": [
+                        {
+                            "name": "Xiaomi Laser Distance Meter",
+                            "image": "laser-measure-1.png",
+                            "price": "$39",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Digital Tape Measure",
+                            "image": "tape-measure-1.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "screwdrivers": {
+                    "name": "Screwdrivers",
+                    "products": [
+                        {
+                            "name": "Xiaomi Electric Screwdriver Kit",
+                            "image": "screwdriver-1.png",
+                            "price": "$49",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Precision Screwdriver Set",
+                            "image": "screwdriver-2.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "flashlights": {
+                    "name": "Flashlights",
+                    "products": [
+                        {
+                            "name": "Xiaomi LED Flashlight",
+                            "image": "flashlight-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Mini Flashlight",
+                            "image": "flashlight-2.png",
+                            "price": "$15"
+                        }
+                    ]
+                },
+                "cordless_drills": {
+                    "name": "Cordless Drills",
+                    "products": [
+                        {
+                            "name": "Xiaomi Cordless Drill Pro",
+                            "image": "drill-1.png",
+                            "price": "$89",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Mini Cordless Drill",
+                            "image": "drill-2.png",
+                            "price": "$49"
+                        }
+                    ]
+                },
+                "selfie_sticks": {
+                    "name": "Selfie Sticks",
+                    "products": [
+                        {
+                            "name": "Xiaomi Selfie Stick Bluetooth",
+                            "image": "selfie-stick-1.png",
+                            "price": "$19",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Tripod Selfie Stick",
+                            "image": "selfie-stick-2.png",
+                            "price": "$29"
+                        }
+                    ]
+                }
+            }
+        },
+        "chargings": {
+            "name": "Chargings",
+            "subcategories": {
+                "power_banks": {
+                    "name": "Power Banks",
+                    "products": [
+                        {
+                            "name": "Xiaomi Power Bank 4 20000mAh",
+                            "image": "powerbank-1.png",
+                            "price": "$49",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Wireless Power Bank 10000mAh",
+                            "image": "powerbank-2.png",
+                            "price": "$39"
+                        }
+                    ]
+                },
+                "power_adapters": {
+                    "name": "Power Adapters",
+                    "products": [
+                        {
+                            "name": "Xiaomi 67W GaN Charger",
+                            "image": "adapter-1.png",
+                            "price": "$29",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi 33W Wall Charger",
+                            "image": "adapter-2.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "wireless_chargings": {
+                    "name": "Wireless Chargings",
+                    "products": [
+                        {
+                            "name": "Xiaomi Wireless Charger 50W",
+                            "image": "wireless-charger-1.png",
+                            "price": "$39",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Wireless Charger Stand",
+                            "image": "wireless-charger-2.png",
+                            "price": "$19"
+                        }
+                    ]
+                },
+                "cables": {
+                    "name": "Cables",
+                    "products": [
+                        {
+                            "name": "Xiaomi USB-C Cable 1.5m",
+                            "image": "cable-1.png",
+                            "price": "$9",
+                            "featured": true
+                        },
+                        {
+                            "name": "Xiaomi Lightning Cable 1m",
+                            "image": "cable-2.png",
+                            "price": "$12"
+                        }
+                    ]
                 }
             }
         }
