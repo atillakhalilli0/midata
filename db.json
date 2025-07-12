@@ -1,7 +1,6 @@
 {
-    "mobile": {
-        "name": "Mobile",
-        "subcategories": {
+    "mobile": [
+        {
             "phones": {
                 "name": "Phones",
                 "subcategories": {
@@ -239,10 +238,9 @@
                 ]
             }
         }
-    },
-    "wearables": {
-        "name": "Wearables",
-        "subcategories": {
+    ],
+    "wearables": [
+        {
             "smartwatches": {
                 "name": "Smart Watches",
                 "products": [
@@ -337,10 +335,9 @@
                 ]
             }
         }
-    },
-    "smarthome": {
-        "name": "Smart Home",
-        "subcategories": {
+    ],
+    "smarthome": [
+        {
             "tvs_ha": {
                 "name": "TVs & Home Audio",
                 "subcategories": {
@@ -1005,9 +1002,9 @@
                 }
             }
         }
-    },
-    "lifestyle": {
-        "outdoors": {
+    ],
+    "lifestyle": [
+        {
             "name": "Outdoors",
             "subcategories": {
                 "scooters": {
@@ -1108,7 +1105,7 @@
                 }
             }
         },
-        "office": {
+        {
             "name": "Office",
             "subcategories": {
                 "ink_pens": {
@@ -1257,7 +1254,7 @@
                 }
             }
         },
-        "health_fitness": {
+        {
             "name": "Health & Fitness",
             "subcategories": {
                 "scales": {
@@ -1374,7 +1371,7 @@
                 }
             }
         },
-        "personal_care": {
+        {
             "name": "Personal Care",
             "subcategories": {
                 "oral_care": {
@@ -1475,7 +1472,7 @@
                 }
             }
         },
-        "tools": {
+        {
             "name": "Tools",
             "subcategories": {
                 "pressure_washers": {
@@ -1576,7 +1573,7 @@
                 }
             }
         },
-        "chargings": {
+        {
             "name": "Chargings",
             "subcategories": {
                 "power_banks": {
@@ -1645,5 +1642,5 @@
                 }
             }
         }
-    }
+    ]
 }
